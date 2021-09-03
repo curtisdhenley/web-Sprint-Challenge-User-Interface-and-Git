@@ -209,6 +209,9 @@ footer nav {
     padding: 20px 2%;
     font-size: 14px;
 }
+footer.about nav {
+    margin-left: 16%;
+}
 
 footer nav a {
     color: white;
@@ -242,6 +245,14 @@ footer nav a {
     margin: 3% 0;
     border-bottom: 2px dotted black;
 }
-.top1 a {
-    
+.top-row a, .bottom-row a {
+    text-decoration: none;
+    color: black;
+    border: 2px solid black;
+    border-radius: 10px;
+    margin: 2% 0;
+    padding: 0% 2%;
+}
+div.bottom {
+    margin-bottom: 4%;
 }
